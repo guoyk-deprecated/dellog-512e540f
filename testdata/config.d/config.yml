@@ -1,0 +1,7 @@
+configs:
+  - enabled: true
+    keep: 7
+    paths: 
+      - testdata/logs/**/*.log
+      - testdata/logs/**/*.log
+      - testdata/logs/*.log
